@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jbyoteki
-- 👀 I’m interested in coding, duhh
-- 🌱 I’m currently learning to hack websites
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: just dont try for now
+-  wsg, i’m @jbyoteki
+-  i’m interested in coding, duhh
+-  i’m currently learning some programming languages
+-  I’m looking to collaborate on nothing at the moment
+-  how to reach me: just dont try for now unless it urgent
 
 <!---
-jbyoteki/jbyoteki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jbyoteki/jbyoteki is a ✨ speciaaaal ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
